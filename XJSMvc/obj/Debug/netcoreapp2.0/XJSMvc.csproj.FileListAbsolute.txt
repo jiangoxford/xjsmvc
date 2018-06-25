@@ -1,0 +1,10 @@
+C:\NetCore\xjsstore\XJSMvc\bin\Debug\netcoreapp2.0\XJSMvc.deps.json
+C:\NetCore\xjsstore\XJSMvc\bin\Debug\netcoreapp2.0\XJSMvc.runtimeconfig.json
+C:\NetCore\xjsstore\XJSMvc\bin\Debug\netcoreapp2.0\XJSMvc.runtimeconfig.dev.json
+C:\NetCore\xjsstore\XJSMvc\bin\Debug\netcoreapp2.0\XJSMvc.dll
+C:\NetCore\xjsstore\XJSMvc\bin\Debug\netcoreapp2.0\XJSMvc.pdb
+C:\NetCore\xjsstore\XJSMvc\obj\Debug\netcoreapp2.0\XJSMvc.csproj.CoreCompileInputs.cache
+C:\NetCore\xjsstore\XJSMvc\obj\Debug\netcoreapp2.0\XJSMvc.AssemblyInfoInputs.cache
+C:\NetCore\xjsstore\XJSMvc\obj\Debug\netcoreapp2.0\XJSMvc.AssemblyInfo.cs
+C:\NetCore\xjsstore\XJSMvc\obj\Debug\netcoreapp2.0\XJSMvc.dll
+C:\NetCore\xjsstore\XJSMvc\obj\Debug\netcoreapp2.0\XJSMvc.pdb
